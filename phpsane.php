@@ -407,7 +407,7 @@ echo "</td>
 		</tr>
     <tr>
       <td colspan='2'>\n";
-        include("incl/files.php");
+        //include("incl/files.php");
 echo "
       </td>
   </table>\n";
